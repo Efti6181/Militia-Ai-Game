@@ -1,0 +1,16 @@
+{
+  "pygame": "2.5.8",
+  "python": "3.12.14",
+  "renderer": "SDL dummy; software rendering, logical 1400x800",
+  "quality": "High",
+  "starting_enemies": 24,
+  "simulation_hz": 120,
+  "frames_measured": 360,
+  "mean_frame_ms": 5.554,
+  "p95_frame_ms": 6.99,
+  "equivalent_uncapped_fps": 180.1,
+  "actual_play_is_capped_at_fps": 60,
+  "stress_scene_survived_without_crashes": true,
+  "stress_kills": 4,
+  "note": "A container measurement, not a guarantee for every PC; stress player is invulnerable."
+}

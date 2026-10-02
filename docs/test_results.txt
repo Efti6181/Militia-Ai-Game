@@ -1,0 +1,35 @@
+test_all_weapons_fire_and_shotgun_has_eight_pellets (test_game.GameTests.test_all_weapons_fire_and_shotgun_has_eight_pellets) ... ok
+test_animation_override_and_invalid_asset_fallback (test_game.GameTests.test_animation_override_and_invalid_asset_fallback) ... ok
+test_astar_routes_around_the_central_barrier (test_game.GameTests.test_astar_routes_around_the_central_barrier) ... ok
+test_audio_missing_device_does_not_block_play (test_game.GameTests.test_audio_missing_device_does_not_block_play) ... ok
+test_barrel_cannot_shoot_through_cover (test_game.GameTests.test_barrel_cannot_shoot_through_cover) ... ok
+test_characters_cannot_cross_obstacles_even_with_large_delta (test_game.GameTests.test_characters_cannot_cross_obstacles_even_with_large_delta) ... ok
+test_checkpoint_round_trip_restores_combat (test_game.GameTests.test_checkpoint_round_trip_restores_combat) ... ok
+test_corrupted_and_wrong_shape_saves_are_safe (test_game.GameTests.test_corrupted_and_wrong_shape_saves_are_safe) ... ok
+test_death_retry_resets_position_health_and_entities (test_game.GameTests.test_death_retry_resets_position_health_and_entities) ... ok
+test_diagonal_movement_is_normalized (test_game.GameTests.test_diagonal_movement_is_normalized) ... ok
+test_each_shot_counts_accuracy_once_even_with_pellets (test_game.GameTests.test_each_shot_counts_accuracy_once_even_with_pellets) ... ok
+test_every_screen_renders_and_buttons_stay_in_bounds (test_game.GameTests.test_every_screen_renders_and_buttons_stay_in_bounds) ... ok
+test_final_wave_victory_and_survival_continues (test_game.GameTests.test_final_wave_victory_and_survival_continues) ... ok
+test_low_health_enemy_takes_cover (test_game.GameTests.test_low_health_enemy_takes_cover) ... ok
+test_malformed_checkpoint_fields_never_crash_or_partially_restore (test_game.GameTests.test_malformed_checkpoint_fields_never_crash_or_partially_restore) ... ok
+test_menu_click_and_keyboard_controls (test_game.GameTests.test_menu_click_and_keyboard_controls) ... ok
+test_movement_is_independent_of_render_rate (test_game.GameTests.test_movement_is_independent_of_render_rate) ... ok
+test_nearest_wall_blocks_projectiles_before_enemies (test_game.GameTests.test_nearest_wall_blocks_projectiles_before_enemies) ... ok
+test_original_health_and_enemy_archetypes_retained (test_game.GameTests.test_original_health_and_enemy_archetypes_retained) ... ok
+test_pause_freezes_all_simulation_timers (test_game.GameTests.test_pause_freezes_all_simulation_timers) ... ok
+test_player_enemy_bodies_resolve_overlap (test_game.GameTests.test_player_enemy_bodies_resolve_overlap) ... ok
+test_projection_and_letterboxing_are_invertible (test_game.GameTests.test_projection_and_letterboxing_are_invertible) ... ok
+test_reload_and_switch_cancel (test_game.GameTests.test_reload_and_switch_cancel) ... ok
+test_rotation_never_changes_collision_radius (test_game.GameTests.test_rotation_never_changes_collision_radius) ... ok
+test_settings_persist_and_volumes_stay_bounded (test_game.GameTests.test_settings_persist_and_volumes_stay_bounded) ... ok
+test_sniper_has_a_visible_warning_before_firing (test_game.GameTests.test_sniper_has_a_visible_warning_before_firing) ... ok
+test_sprint_and_dodge_consume_stamina (test_game.GameTests.test_sprint_and_dodge_consume_stamina) ... ok
+test_swept_collision_hits_a_target_between_frames (test_game.GameTests.test_swept_collision_hits_a_target_between_frames) ... ok
+test_wave_completion_upgrade_and_refill (test_game.GameTests.test_wave_completion_upgrade_and_refill) ... ok
+test_first_intersection_and_zero_vectors (test_game.GeometryTests.test_first_intersection_and_zero_vectors) ... ok
+
+----------------------------------------------------------------------
+Ran 30 tests in 0.360s
+
+OK
